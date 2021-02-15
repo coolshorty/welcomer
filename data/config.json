@@ -1,5 +1,5 @@
 {
-  "token": "Bot token",
+  "token": "ODEwMjU5ODgxOTYxMTkzNTEy.YChDUQ.lctrYCntYNbhO8ULkLQ05oDk4X0",
   "prefix": "!",
   "welcome_channel": "welcome", 
   "embed_emoji": "",
@@ -9,7 +9,7 @@
   "activity2": "version 2.0",
   "type2": "PLAYING",
   "activitytime": "15000",
-  "ownerID": "532677204220444682",
+  "ownerID": "614076153770147877",
   "customtext": "Have a nice time.",
   "embed_color": "363A3F",
   "embed_guildname": ""
